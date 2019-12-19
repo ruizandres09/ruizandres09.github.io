@@ -1,0 +1,160 @@
+.topBar{
+    width: 100%;
+    margin:0px;
+    padding: 0px;
+    background-color:#ffffff;
+    height: 40px; 
+    border: solid;
+    border-color: #cccccc;
+
+}
+
+header{
+    background-color:#4aaaa5;
+    color:#ffffff;
+    float: left;
+    margin-left: 10%;
+    padding-top: 2px;
+    width: 200px;
+    height: 38px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+nav{
+    float:right;
+    margin:10px;
+}
+
+a,ul{
+    
+   text-decoration: none;
+    list-style: none;
+    margin:0 ;
+    padding:5px; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li{
+    display: inline;
+   }
+
+.content, .contact{
+    width: 960px;
+    margin: 40px auto;
+    background-color:#ffffff;
+    height: 500px;
+    border: solid;
+    border-color:#dddddd ;
+    }
+
+.porfolio{
+    width: 960px;
+    margin: 40px auto;
+    background-color:#ffffff;
+    height: 1000px;
+    border: solid;
+    border-color:#dddddd ;
+}
+
+.headshot{
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+    background-color: #666666;
+    color:#ffffff;
+    width: 100%;
+    height: 30px;
+    border-top: 8px solid;
+    border-color: #4aaaa5;
+    position: sticky;
+    bottom: 0;
+    ;
+}
+
+p, li,a{
+    color:#777777;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:5px;
+    padding: 5px;
+}
+
+body{
+    background-image: url(../images/email-pattern.png);
+}
+
+h1 {
+    color:#4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+
+hr{
+    width: 98%;
+    margin:0 auto;
+}
+
+.second{
+    border-left: solid;
+    border-right: solid;
+}
+img{
+    width: 300px;
+    float: left;
+    padding: 0px;
+}
+
+.boxImg{
+    position: relative;
+    float:left;
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    margin: 10px;
+}
+
+.descript{
+    background-color:#4aaaa5;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+}
+.infoStuff{
+    position: relative;
+    height: 350px;
+    padding:5px;
+    
+}
+
+input[type=text],select,label, textarea{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 90%;
+    padding: 10px 0px;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.btn{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    width: 60px;
+    padding: 5px;
+    text-align: center;
+    color:#ffffff;
+    border: solid;
+    border-color: #dddddd;
+    margin: 5px;
+}
+
+textarea{
+    height: 150px;
+}
