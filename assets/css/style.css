@@ -87,6 +87,7 @@ p, li,a{
 
 body{
     background-image: url(../images/email-pattern.png);
+    margin: 0;
 }
 
 h1 {
@@ -127,6 +128,7 @@ img{
     text-align: center;
     color: #ffffff;
     font-size: 18px;
+    margin: 0;
 }
 .infoStuff{
     position: relative;
