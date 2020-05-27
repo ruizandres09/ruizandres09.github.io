@@ -85,7 +85,7 @@ const Portfolio = (function () {
         "am a Mechanical Engineer.",
         "am a Full-Stack Web Developer.",
         "love everything about engineering.",
-        "enjoy challenges",
+        "enjoy challenges.",
         "solve problems.",
       ],
       // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
